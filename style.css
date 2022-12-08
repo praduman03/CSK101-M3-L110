@@ -1,0 +1,15 @@
+#cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5vh;
+}
+.card {
+  box-shadow: 0px 0px 4px grey;
+  margin: 10vh;
+  text-align: center;
+  width: 23%;
+  /* padding: 10vh; */
+}
+.image {
+  width: 60%;
+}
